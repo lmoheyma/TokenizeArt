@@ -17,7 +17,6 @@ This whitepaper discusses the specific features of the GBS42 token, its technica
 - **Contract Address:** 0x00AD1e94897B5e41a3E1A2423d5aE493CCb4FDEB  
 - **Blockchain:** Ethereum (Testnet Sepolia)  
 - **Token Standard:** ERC-721  
-- **Total Supply:** Fixed at 100,000 unique tokens (No Max Supply)  
 - **Decimals:** N/A (ERC-721 tokens are non-fungible and do not have decimals)
 
 GBS42 is an ERC-721 non-fungible token, meaning each token is unique and indivisible. This standard is ideal for creating distinct digital assets, such as collectibles, art, or in-game items. GBS42 tokens are stored and transferred on the Ethereum blockchain, leveraging its decentralized, secure, and transparent network.
